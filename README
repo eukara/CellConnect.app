@@ -1,0 +1,8 @@
+CellConnect.app
+
+Very minimal frontend to KDE Connect.
+It lists all available devices, let's you pair, ping, find your phone and
+send files.
+
+Future wishlist:
+Services integration for sharing files, syncing clipboard.

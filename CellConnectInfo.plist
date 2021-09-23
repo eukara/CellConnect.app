@@ -1,0 +1,15 @@
+{
+    ApplicationDescription = "The OPENSTEP frontend to KDE Connect";
+    ApplicationIcon = CellConnect;
+    ApplicationName = CellConnect;
+    ApplicationRelease = 1.0;
+
+    Authors = (
+	"Marco Hladik"
+    );
+
+    Copyright = "Copyright (C) 2021, Vera Visions LLC";
+    CopyrightDescription = "All rights reserved.";
+    FullVersionID = 1.0;
+    URL = "https://www.vera-visions.com/";
+}

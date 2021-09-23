@@ -1,0 +1,40 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    CellController = {
+	Actions = (
+	    "findPhone:",
+	    "refreshList:",
+	    "pingPhone:",
+	    "sendFile:"
+	);
+	Outlets = (
+	    tableView
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "findPhone:",
+	    "unpairPhone:",
+	    "pairPhone:",
+	    "pingPhone:",
+	    "refreshList:",
+	    "sendFile:"
+	);
+	Super = NSObject;
+    };
+    MainController = {
+	Actions = (
+	    "findPhone:",
+	    "refreshList:",
+	    "pingPhone:",
+	    "sendFile:",
+	    "unpairPhone:",
+	    "pairPhone:"
+	);
+	Outlets = (
+	    tableView
+	);
+	Super = NSWindowController;
+    };
+}
