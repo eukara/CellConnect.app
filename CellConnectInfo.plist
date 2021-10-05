@@ -1,8 +1,11 @@
 {
     ApplicationDescription = "The OPENSTEP frontend to KDE Connect";
     ApplicationIcon = CellConnect;
+    NSIcon = "CellConnect.tiff";
     ApplicationName = CellConnect;
     ApplicationRelease = 1.0;
+    NSPrincipalClass = NSApplication;
+    NSMainNibFile = Main;
 
     Authors = (
 	"Marco Hladik"

@@ -8,8 +8,6 @@
 
 - (id) init
 {
-	NSImage *icon = [[NSImage imageNamed:@"CellConnect.tiff"] retain];
-	[NSApp setApplicationIconImage: icon];
    self = [super init];
    records = [NSMutableArray new];
    return self;
